@@ -10,7 +10,7 @@
 
 composer require archee-nic/game-map2d:dev-master
 
-## Быстрнй старт
+## Быстрый старт
 
 ```php
 <?
