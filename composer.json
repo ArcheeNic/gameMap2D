@@ -1,0 +1,13 @@
+{
+    "name": "archee-nic/game-map2d",
+    "description": "2D-map manipulation",
+    "license": "GPL-3.0",
+    "require": {
+        "php": "^5.6 || ^7.0",
+        "megaplan/simple_client": "dev-master",
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": { "ArcheeNic\\Map2D\\": "src/" }
+    }
+}
